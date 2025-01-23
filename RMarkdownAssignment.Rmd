@@ -1,7 +1,7 @@
 ---
 title: 'RMarkdown:  In Class Assignment'
-author: "YOUR NAME HERE"
-date: "Data 2401"
+author: "Mekayla Boles"
+date: "Thursday, January 23,2025"
 output: html_document
 ---
 
@@ -35,3 +35,30 @@ Note that you can click "Knit" as you go along to see what the final results are
 
 **Once you're done, remember to commit the changes and push the repo back to your assignment on GitHub!**
  
+# Your Work Here
+ 
+## Wise Words
+ 
+'''
+[I said what I said!](https://www.buzzfeed.com/joshrodgers/best-nene-leakes-quotes-for-any-situation)
+'''
+ 
+## My Semester
+ 
+| **PSY_2302** | *Pscyhology Social* | Anthony Foster |
+| **CS_2311** | *Data Structures and Algorithms with Python* | John Henderson |
+| **MATH_2305** | *Discrete Mathematical Structures* | Mukesh Kumar |
+| **DATA_2401** | *Data Science 1* | Katherine Shoemaker |
+ 
+## I Recommend
+### Mariah The Scientist
+
+```
+Hidin' in my brain, Feelings of mine and figments of my imagination.
+```
+
+- Spread Thin
+- From a Woman
+- Always n Forever
+- 2 You
+- All for Me
